@@ -10,6 +10,7 @@ This is a collection of my personal step-by-step guides for solving common IT su
 * [How to Map a Network Drive](./how-to-map-network-drive.md)
 * [How to Repair or Reinstall a Corrupt Program](./how-to-reinstall-program.md)
 * [How to Start Windows in Safe Mode](./how-to-boot-safe-mode.md)
+* [How to Scan for Malware (Virus)](./how-to-check-for-malware.md)
 
 ### Network Issues
 * [How to Flush the DNS Cache](./how-to-flush-dns.md)
