@@ -11,4 +11,4 @@ This is a collection of my personal step-by-step guides for solving common IT su
 * [How to Flush the DNS Cache](./how-to-flush-dns.md)
 
 ### Hardware Issues
-* [How to Troubleshoot a Monitor with No Display] (./how-to-check-monitior-connection.md)
+* [How to Troubleshoot a Monitor with No Display](./how-to-check-monitor-connection.md)
