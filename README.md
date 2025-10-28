@@ -8,6 +8,7 @@ This is a collection of my personal step-by-step guides for solving common IT su
 * [How to Clear a Web Browser Cache](./how-to-clear-browser-cache.md)
 * [How to Troubleshoot a Blue Screen of Death (BSOD)](./how-to-handle-bsod.md)
 * [How to Map a Network Drive](./how-to-map-network-drive.md)
+* [How to Repair or Reinstall a Corrupt Program](./how-to-reinstall-program.md)
 
 ### Network Issues
 * [How to Flush the DNS Cache](./how-to-flush-dns.md)
