@@ -12,3 +12,9 @@ This is a collection of my personal step-by-step guides for solving common IT su
 
 ### Hardware Issues
 * (More guides coming soon...)
+
+* # My IT Troubleshooting Playbook 📒
+
+This is a collection of my personal step-by-step guides for solving common IT support problems.
+
+
