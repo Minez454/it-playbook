@@ -8,13 +8,7 @@ This is a collection of my personal step-by-step guides for solving common IT su
 * [How to Clear a Web Browser Cache](./how-to-clear-browser-cache.md)
 
 ### Network Issues
-* (More guides coming soon...)
+* [How to Flush the DNS Cache](./how-to-flush-dns.md)
 
 ### Hardware Issues
 * (More guides coming soon...)
-
-* # My IT Troubleshooting Playbook 📒
-
-This is a collection of my personal step-by-step guides for solving common IT support problems.
-
-
