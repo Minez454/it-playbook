@@ -16,6 +16,7 @@ This is a collection of my personal step-by-step guides for solving common IT su
 * [How to Flush the DNS Cache](./how-to-flush-dns.md)
 * [How to Troubleshoot an Offline Printer](./how-to-fix-offline-printer.md)
 * [How to Troubleshoot "No Internet Access"](./how-to-check-ip-address.md)
+* [How to Troubleshoot a Wi-Fi Connection](./how-to-fix-wifi.md)
 
 ### Hardware Issues
 * [How to Troubleshoot a Monitor with No Display](./how-to-check-monitor-connection.md)
