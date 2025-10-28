@@ -17,3 +17,4 @@ This is a collection of my personal step-by-step guides for solving common IT su
 
 ### Hardware Issues
 * [How to Troubleshoot a Monitor with No Display](./how-to-check-monitor-connection.md)
+* [How to Troubleshoot a Faulty Keyboard or Mouse](./how-to-fix-keyboard-mouse.md)
